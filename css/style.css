@@ -1,0 +1,9 @@
+#fondo {
+  background: url("../imagenes/prism1.png") repeat;
+  background-attachment: fixed;
+  color: #ffffff;
+}
+
+#Contactar {
+  text-align: center;
+}
